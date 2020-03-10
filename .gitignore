@@ -1,0 +1,27 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Binaries
+/build/
+*.exe
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
